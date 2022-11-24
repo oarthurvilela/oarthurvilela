@@ -2,7 +2,7 @@
 
 <br />
 
-- 💼 I’m currently working on **GFT Brazil**
+- 💼 I’m currently working at **GFT Brazil**
 - 🎓 I’m graduated in **Law** and I’m a **Computer Science** student
 - 🌱 I’m interested in **Development** and **Cybersecurity**
 - 📫 How to reach me: 
